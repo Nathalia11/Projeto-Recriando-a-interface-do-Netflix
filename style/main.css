@@ -96,7 +96,7 @@ header nav a:hover{ /* toda vez que eu passar o mouse encima a palavra vai mudar
 
 .botao a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 .botao a:hover{
     background-color:white;
